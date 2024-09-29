@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  ![Video](https://github.com/user-attachments/assets/b2d8dbf8-3584-4403-879d-a59104c74398)
+  <img src="https://github.com/user-attachments/assets/b2d8dbf8-3584-4403-879d-a59104c74398" alt="My GIF" />
 </p>
+
 
 <!--
 **hanadiasfour/hanadiasfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
