@@ -73,6 +73,14 @@
 </section>
 
 
+<p align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=woroodfathiassi&show_icons=true&locale=en&layout=compact" alt="woroodfathiassi" /></p>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=woroodfathiassi&show_icons=true&locale=en" alt="woroodfathiassi" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woroodfathiassi&" alt="woroodfathiassi" /></p>
+</p>
+
 
 <!--
 **hanadiasfour/hanadiasfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
