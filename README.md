@@ -14,12 +14,18 @@
 <section align="center">
   <h2>Languages:</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100px" height="80px" alt="Language 1">
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100px" height="80px" alt="Language 2">
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="150px" height="80px" alt="Language 3">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100px" height="80px" alt="Language 4">
-    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="90px" height="80px" alt="Language 5">
-    <img src="https://github.com/user-attachments/assets/0feeb186-ccc2-4e51-adbf-6a584fbf1347" width="100px" height="80px" alt="Language 6">
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100px" height="80px" alt="Python">
+    <img src="https://github.com/user-attachments/assets/0feeb186-ccc2-4e51-adbf-6a584fbf1347" width="100px" height="80px" alt="Java">
+  </div>
+</section>
+
+<section align="center">
+  <h2>Tools:</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100px" height="80px" alt="GitHub">
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100px" height="80px" alt="VisualCode">
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="150px" height="80px" alt="Git">
+    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="90px" height="80px" alt="Android Studio">
   </div>
 </section>
 
