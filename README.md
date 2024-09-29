@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Razan%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+  <div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Hanadi;Welcome..;..Stay+as+Long+as+you+Want..;" alt="Typing SVG"/>
+    </h1>
+</div>
 </p>
 
 <p align="center">
