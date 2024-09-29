@@ -23,6 +23,9 @@
     <a href="https://www.python.org/" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65px" height="55px" alt="Python">
     </a>
+    <a href="https://en.cppreference.com/w/c" target="_blank">
+      <img src="https://github.com/user-attachments/assets/a8b9fe4b-276d-4b06-bcf5-d348a143bbea" width="65px" height="55px" alt="c Language">
+    </a>
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://github.com/user-attachments/assets/6041e61b-a756-4713-8920-dd016f8b9273" width="80px" height="60px" alt="mySQL">
     </a>
