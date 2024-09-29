@@ -17,7 +17,7 @@
     <img src="https://github.com/user-attachments/assets/0feeb186-ccc2-4e51-adbf-6a584fbf1347" width="100px" height="80px" alt="Java">
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100px" height="80px" alt="Python">
     <img src="https://github.com/user-attachments/assets/6041e61b-a756-4713-8920-dd016f8b9273" width="100px" height="80px" alt="mySQL">
-    <img src="https://github.com/user-attachments/assets/4005d1ed-8303-4412-ae94-ef230ac81801" width="100px" height="80px" alt="HTML">
+    <img src="https://github.com/user-attachments/assets/2240aada-6469-437b-878d-06f4ada92779" width="90px" height="80px" alt="HTML">
     <img src="https://github.com/user-attachments/assets/65aceae8-ecca-4fd1-b233-d51c3868fb85" width="100px" height="80px" alt="PHP">
   </div>
 </section>
