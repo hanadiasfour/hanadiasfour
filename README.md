@@ -67,11 +67,11 @@
       <img src="https://github.com/user-attachments/assets/526ecc02-f994-499f-a85a-3961fe49a7e8" width="70px" height="60px" alt="Blender">
     </a>
     <a href="https://jupyter.org/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/716dd32a-9822-44b2-bdf2-a7e75db8372a" width="70px" height="60px" alt="Jupyter">
+      <img src="https://github.com/user-attachments/assets/716dd32a-9822-44b2-bdf2-a7e75db8372a" width="60px" height="60px" alt="Jupyter">
     </a>
      </a>
     <a href="https://portal.azure.com/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/be64fa97-b9b6-473b-87cd-2cdc069b2514" width="70px" height="60px" alt="Azure Portal">
+      <img src="https://github.com/user-attachments/assets/be64fa97-b9b6-473b-87cd-2cdc069b2514" width="60px" height="60px" alt="Azure Portal">
     </a>
   </div>
 </section>
