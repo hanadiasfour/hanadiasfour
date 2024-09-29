@@ -26,6 +26,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100px" height="80px" alt="VisualCode">
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="150px" height="80px" alt="Git">
     <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="90px" height="80px" alt="Android Studio">
+    <img src="https://github.com/user-attachments/assets/526ecc02-f994-499f-a85a-3961fe49a7e8" width="90px" height="80px" alt="blender">
   </div>
 </section>
 
