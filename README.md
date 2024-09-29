@@ -45,6 +45,9 @@
 <section align="center">
   <h2>Tools:</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <a href="https://git-scm.com/" target="_blank">
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="130px" height="60px" alt="Git">
+    </a>
     <a href="https://github.com/" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80px" height="60px" alt="GitHub">
     </a>
@@ -54,17 +57,11 @@
     <a href="https://www.eclipse.org/" target="_blank">
       <img src="https://github.com/user-attachments/assets/36122a5b-eb59-4bca-b7d2-b1ba3049cdfc" width="70px" height="60px" alt="Eclipse">
     </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="130px" height="60px" alt="Git">
-    </a>
     <a href="https://developer.android.com/studio" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="70px" height="60px" alt="Android Studio">
     </a>
     <a href="https://www.blender.org/" target="_blank">
       <img src="https://github.com/user-attachments/assets/526ecc02-f994-499f-a85a-3961fe49a7e8" width="70px" height="60px" alt="Blender">
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/c9531d15-af42-4410-87c6-0009fdd0c195" width="70px" height="60px" alt="Arduino">
     </a>
     <a href="https://jupyter.org/" target="_blank">
       <img src="https://github.com/user-attachments/assets/716dd32a-9822-44b2-bdf2-a7e75db8372a" width="70px" height="60px" alt="Jupyter">
