@@ -10,30 +10,35 @@
   </picture>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
 
 <section align="center">
   <h2>Languages:</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/0feeb186-ccc2-4e51-adbf-6a584fbf1347" width="100px" height="80px" alt="Java">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100px" height="80px" alt="Python">
-    <img src="https://github.com/user-attachments/assets/6041e61b-a756-4713-8920-dd016f8b9273" width="100px" height="80px" alt="mySQL">
-    <img src="https://github.com/user-attachments/assets/db201f6a-48e2-4802-b860-8b489a586bae" width="90px" height="80px" alt="HTML">
-    <img src="https://github.com/user-attachments/assets/5c732b5b-01e8-44e7-9f05-266a45f8232a" width="90px" height="80px" alt="CSS">
-    <img src="https://github.com/user-attachments/assets/b8684ba2-c561-4d7e-bee9-1acd15b6d588" width="100px" height="80px" alt="PHP">
+    <img src="https://github.com/user-attachments/assets/0feeb186-ccc2-4e51-adbf-6a584fbf1347" width="80px" height="60px" alt="Java">
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80px" height="60px" alt="Python">
+    <img src="https://github.com/user-attachments/assets/6041e61b-a756-4713-8920-dd016f8b9273" width="80px" height="60px" alt="mySQL">
+    <img src="https://github.com/user-attachments/assets/db201f6a-48e2-4802-b860-8b489a586bae" width="70px" height="60px" alt="HTML">
+    <img src="https://github.com/user-attachments/assets/5c732b5b-01e8-44e7-9f05-266a45f8232a" width="70px" height="60px" alt="CSS">
+    <img src="https://github.com/user-attachments/assets/b8684ba2-c561-4d7e-bee9-1acd15b6d588" width="80px" height="60px" alt="PHP">
   </div>
 </section>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
 
 <section align="center">
   <h2>Tools:</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100px" height="80px" alt="GitHub">
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100px" height="80px" alt="VisualCode">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80px" height="60px" alt="GitHub">
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80px" height="60px" alt="VisualCode">
     <img src="https://github.com/user-attachments/assets/36122a5b-eb59-4bca-b7d2-b1ba3049cdfc" width="100px" height="80px" alt="eclipse">
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="150px" height="80px" alt="Git">
-    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="90px" height="80px" alt="Android Studio">
-    <img src="https://github.com/user-attachments/assets/526ecc02-f994-499f-a85a-3961fe49a7e8" width="90px" height="80px" alt="blender">
-    <img src="https://github.com/user-attachments/assets/c9531d15-af42-4410-87c6-0009fdd0c195" width="90px" height="80px" alt="arduino">
-    <img src="https://github.com/user-attachments/assets/716dd32a-9822-44b2-bdf2-a7e75db8372a" width="90px" height="80px" alt="jupyter">
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="130px" height="60px" alt="Git">
+    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="70px" height="60px" alt="Android Studio">
+    <img src="https://github.com/user-attachments/assets/526ecc02-f994-499f-a85a-3961fe49a7e8" width="70px" height="60px" alt="blender">
+    <img src="https://github.com/user-attachments/assets/c9531d15-af42-4410-87c6-0009fdd0c195" width="70px" height="60px" alt="arduino">
+    <img src="https://github.com/user-attachments/assets/716dd32a-9822-44b2-bdf2-a7e75db8372a" width="70px" height="60px" alt="jupyter">
     
   </div>
 </section>
