@@ -18,7 +18,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100px" height="80px" alt="Python">
     <img src="https://github.com/user-attachments/assets/6041e61b-a756-4713-8920-dd016f8b9273" width="100px" height="80px" alt="mySQL">
     <img src="https://github.com/user-attachments/assets/2240aada-6469-437b-878d-06f4ada92779" width="90px" height="80px" alt="HTML">
-    <img src="https://github.com/user-attachments/assets/65aceae8-ecca-4fd1-b233-d51c3868fb85" width="100px" height="80px" alt="PHP">
+    <img src="https://github.com/user-attachments/assets/2240aada-6469-437b-878d-06f4ada92779" width="100px" height="80px" alt="PHP">
   </div>
 </section>
 
@@ -31,6 +31,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="150px" height="80px" alt="Git">
     <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="90px" height="80px" alt="Android Studio">
     <img src="https://github.com/user-attachments/assets/526ecc02-f994-499f-a85a-3961fe49a7e8" width="90px" height="80px" alt="blender">
+     <img src="https://github.com/user-attachments/assets/c9531d15-af42-4410-87c6-0009fdd0c195" width="90px" height="80px" alt="arduino">
   </div>
 </section>
 
