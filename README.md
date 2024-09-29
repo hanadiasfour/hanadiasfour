@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <picture>
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400px">
+    <img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240929T132721Z&X-Amz-Expires=300&X-Amz-Signature=85a0f9e0612bf2e6faf148762396e5a19e9af49cfd3ef0009e6128af13e02bdc&X-Amz-SignedHeaders=host" width="400px">
   </picture>
 </p>
 
