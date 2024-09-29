@@ -13,7 +13,7 @@
 
 <div align="center">
     <!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://github.com/user-attachments/assets/0feeb186-ccc2-4e51-adbf-6a584fbf1347" alt="Java" />
     <!-- Add more badges similarly -->
 </div>
 
